@@ -1,4 +1,6 @@
 # Tomori
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTNXG%2FTomori.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FTNXG%2FTomori?ref=badge_shield)
+
 
 A Mix-Space theme built with Next
 
@@ -8,3 +10,6 @@ Why not *Tomorin*? Because during the development, the developer's avatar was no
 
 > [!TIP]
 > じゃ……一生 バンドしてくれる？
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTNXG%2FTomori.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FTNXG%2FTomori?ref=badge_large)
